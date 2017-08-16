@@ -575,7 +575,9 @@
         <dependency>
           <groupId>io.jenkins.blueocean</groupId>
           <artifactId>blueocean-pipeline-editor</artifactId>
-          <version>0.3.0-beta-2</version>
+          <!-- TODO: remove this pipeline editor snapshot build with released
+version -->
+          <version>0.3.0-beta-3-20170818.000955-1</version>
         </dependency>
 
         <dependency>
